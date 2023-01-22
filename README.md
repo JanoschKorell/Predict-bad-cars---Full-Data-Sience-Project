@@ -1,1 +1,0 @@
-# Predict-bad-cars---Full-Data-Sience-Project
